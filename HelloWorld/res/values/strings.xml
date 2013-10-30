@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">订餐系统</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_mainFood">主食</string>
+    <string name="button_mainFood_ManTou">馒头</string>
+    <string name="button_mainFood_MiFan">米饭</string>
+    <string name="button_mainFood_Bing">饼</string>
+    <string name="button_addtionalFood">副食</string>
+    <string name="button_addtionalFood_xihongshichaodan">西红柿炒蛋</string>
+    <string name="button_addtionalFood_cuiliubaicai">醋熘白菜</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="action_search">Action Search</string>
+</resources>
